@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T05:53:38.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PqC3hjlqGbMK8uoa9W7D" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T05:54:55.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="I4ILBPAkU0S8maI9SGu2" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2336" dy="1946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="f5yjZBaVh5itBudGduC8-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="cO1XCbnvmXfLTX3U98Vz-11" source="f5yjZBaVh5itBudGduC8-24" target="f5yjZBaVh5itBudGduC8-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f5yjZBaVh5itBudGduC8-24" value="대출 처리" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;" parent="cO1XCbnvmXfLTX3U98Vz-11" vertex="1">
+        <mxCell id="f5yjZBaVh5itBudGduC8-24" value="대출" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;" parent="cO1XCbnvmXfLTX3U98Vz-11" vertex="1">
           <mxGeometry x="141" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cO1XCbnvmXfLTX3U98Vz-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="cO1XCbnvmXfLTX3U98Vz-11" source="f5yjZBaVh5itBudGduC8-25" target="f5yjZBaVh5itBudGduC8-69">
@@ -156,7 +156,7 @@
           <mxGeometry x="691.3399999999999" y="390" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cO1XCbnvmXfLTX3U98Vz-75" value="&lt;font data-sider-select-id=&quot;f2dde7c2-e914-4822-84c2-8bb58e5855f4&quot; style=&quot;font-size: 19px;&quot;&gt;관리자&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="-800" width="1000" height="940" as="geometry" />
+          <mxGeometry x="930" y="-790" width="1000" height="940" as="geometry" />
         </mxCell>
         <mxCell id="cO1XCbnvmXfLTX3U98Vz-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="cO1XCbnvmXfLTX3U98Vz-75" source="cO1XCbnvmXfLTX3U98Vz-77" target="cO1XCbnvmXfLTX3U98Vz-94">
           <mxGeometry relative="1" as="geometry" />
