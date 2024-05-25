@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T10:28:12.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="T-NC8kaS6EazjiY3F6C_" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T10:28:22.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ejhNdY7IBTWVFvorJb4U" version="24.4.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="890" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="749" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
           <mxGeometry x="90" y="820" width="20" height="700" as="geometry" />
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Jhwk-P5TLDZi5mh6erDE-7" vertex="1">
-          <mxGeometry x="5" y="90" width="10" height="470" as="geometry" />
+          <mxGeometry x="5" y="90" width="10" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-9" value="시스템" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="850" width="60" height="30" as="geometry" />
