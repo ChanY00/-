@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T04:07:21.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="kEnGT8eOjokz9Z0TwA0J" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T04:08:26.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gpgBKFtC2OQrNspnz1Yd" version="24.4.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="432" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="890" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,13 +92,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-2" value="결과 반환" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="mj2deutr0jRf98EYcBfr-13" target="mj2deutr0jRf98EYcBfr-2">
-          <mxGeometry x="0.2121" y="-10" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="230" y="230" />
             </Array>
             <mxPoint x="350" y="230" as="sourcePoint" />
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-3" value="도서관리 시스템&lt;div&gt;로그인&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
