@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T10:09:07.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="aJX_uSZAKudH2ktnEiXq" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T10:18:18.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="lmHqkGA9u_Ejf5rp7teM" version="24.4.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="593" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="도서대출/반납&amp;nbsp;&lt;div&gt;시스템&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="도서 관리&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;시스템&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="250" y="40" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
@@ -59,13 +59,13 @@
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="mj2deutr0jRf98EYcBfr-12" vertex="1">
           <mxGeometry x="45" y="300" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mj2deutr0jRf98EYcBfr-14" value="도서 대출" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="mj2deutr0jRf98EYcBfr-14" value="도서 대출 시스템" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="510" y="40" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="mj2deutr0jRf98EYcBfr-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="mj2deutr0jRf98EYcBfr-14" vertex="1">
           <mxGeometry x="45" y="150" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mj2deutr0jRf98EYcBfr-16" value="도서 반납" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="mj2deutr0jRf98EYcBfr-16" value="도서 반납 시스템" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="650" y="40" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="mj2deutr0jRf98EYcBfr-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="mj2deutr0jRf98EYcBfr-16" vertex="1">
@@ -94,7 +94,20 @@
           <mxGeometry x="265" y="830" width="100" height="690" as="geometry" />
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Jhwk-P5TLDZi5mh6erDE-3" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="YkTwqizVivUnNTWA5we7-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Jhwk-P5TLDZi5mh6erDE-3">
+          <mxGeometry x="52.5" y="330" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YkTwqizVivUnNTWA5we7-14" value="이용자 확인" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Jhwk-P5TLDZi5mh6erDE-3" target="YkTwqizVivUnNTWA5we7-13" source="Jhwk-P5TLDZi5mh6erDE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="310" />
+              <mxPoint x="75" y="340" />
+            </Array>
+            <mxPoint x="65" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-5" value="로그인" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -120,20 +133,20 @@
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Jhwk-P5TLDZi5mh6erDE-7" vertex="1">
           <mxGeometry x="5" y="90" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="Jhwk-P5TLDZi5mh6erDE-9" value="관리자" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="Jhwk-P5TLDZi5mh6erDE-9" value="시스템" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="850" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-10" value="연체자 목록" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="840" y="830" width="100" height="690" as="geometry" />
+          <mxGeometry x="690" y="830" width="100" height="690" as="geometry" />
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Jhwk-P5TLDZi5mh6erDE-10" vertex="1">
-          <mxGeometry x="45" y="150" width="10" height="60" as="geometry" />
+          <mxGeometry x="45" y="330" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-12" value="대출 시스템" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="975" y="830" width="100" height="690" as="geometry" />
+          <mxGeometry x="850" y="830" width="100" height="690" as="geometry" />
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Jhwk-P5TLDZi5mh6erDE-12" vertex="1">
-          <mxGeometry x="45" y="210" width="10" height="60" as="geometry" />
+          <mxGeometry x="45" y="330" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jhwk-P5TLDZi5mh6erDE-14" value="대출 도서 목록" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="1115" y="830" width="100" height="690" as="geometry" />
@@ -205,12 +218,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YkTwqizVivUnNTWA5we7-6" value="신규 도서 주문" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="YkTwqizVivUnNTWA5we7-2">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0019" relative="1" as="geometry">
             <mxPoint x="320" y="1000" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="415" y="1000" />
+              <mxPoint x="420" y="1000" />
             </Array>
             <mxPoint x="450" y="1000" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YkTwqizVivUnNTWA5we7-7" value="도서 배송" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
@@ -222,7 +236,7 @@
             <mxPoint x="455" y="1030" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YkTwqizVivUnNTWA5we7-8" value="도서 목록 업데이트" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Jhwk-P5TLDZi5mh6erDE-4" target="YkTwqizVivUnNTWA5we7-4">
+        <mxCell id="YkTwqizVivUnNTWA5we7-8" value="도서 목록 업데이트 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Jhwk-P5TLDZi5mh6erDE-4" target="YkTwqizVivUnNTWA5we7-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="1070" as="sourcePoint" />
             <Array as="points">
@@ -231,13 +245,41 @@
             <mxPoint x="465" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YkTwqizVivUnNTWA5we7-9" value="결과 저장" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="YkTwqizVivUnNTWA5we7-4" target="Jhwk-P5TLDZi5mh6erDE-4">
+        <mxCell id="YkTwqizVivUnNTWA5we7-9" value="&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="YkTwqizVivUnNTWA5we7-4" target="Jhwk-P5TLDZi5mh6erDE-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="1099" as="targetPoint" />
             <Array as="points">
               <mxPoint x="425" y="1099" />
             </Array>
             <mxPoint x="545" y="1099" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YkTwqizVivUnNTWA5we7-10" value="도서 대출 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Jhwk-P5TLDZi5mh6erDE-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="1140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="200" y="1140" />
+            </Array>
+            <mxPoint x="310" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YkTwqizVivUnNTWA5we7-11" value="연체정보 확인" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="YkTwqizVivUnNTWA5we7-13" target="Jhwk-P5TLDZi5mh6erDE-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1174.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="417.5" y="1174.5" />
+            </Array>
+            <mxPoint x="680" y="1174.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YkTwqizVivUnNTWA5we7-17" value="인적사항/대출 도서정보 저장&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Jhwk-P5TLDZi5mh6erDE-11" target="Jhwk-P5TLDZi5mh6erDE-13">
+          <mxGeometry x="-0.0019" relative="1" as="geometry">
+            <mxPoint x="750" y="1174.47" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="850" y="1174.47" />
+            </Array>
+            <mxPoint x="885" y="1174.47" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
