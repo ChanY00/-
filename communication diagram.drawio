@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T11:05:56.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zFX4qeX0QEXh_Jf32ITt" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T11:21:53.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mqgmFLPsfXxALb8MHlHd" version="24.4.8" type="github">
   <diagram name="페이지-1" id="SCZd--IrIVVPd145KPRW">
-    <mxGraphModel dx="712" dy="1187" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1017" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,19 +53,124 @@
           <mxGeometry x="154" y="174" width="104" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UKU5RorOPV4T0jWpBKqR-23" value="도서 대출 시스템" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="913" y="-118" width="120" height="40" as="geometry" />
+          <mxGeometry x="649" y="58.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UKU5RorOPV4T0jWpBKqR-24" value="" style="triangle;aspect=fixed;fillColor=strokeColor;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="901" y="-116" width="6" height="12" as="geometry" />
+          <mxGeometry x="619" y="58.5" width="6" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="UKU5RorOPV4T0jWpBKqR-25" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="UKU5RorOPV4T0jWpBKqR-23">
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-25" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="UKU5RorOPV4T0jWpBKqR-23" source="UKU5RorOPV4T0jWpBKqR-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="611" y="-98" as="sourcePoint" />
             <mxPoint x="815" y="3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UKU5RorOPV4T0jWpBKqR-26" value="3. [연체정보가 없는 경우]도서 대출" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="624" y="-125.5" width="266" height="31" as="geometry" />
+          <mxGeometry x="342" y="49" width="266" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-34" value="시스" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="31" y="637.5" width="35" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-35" value="도서관리 시스템" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="199" y="652.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-36" value="" style="triangle;aspect=fixed;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="171" y="654.5" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-37" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKU5RorOPV4T0jWpBKqR-34" target="UKU5RorOPV4T0jWpBKqR-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="764.5" as="sourcePoint" />
+            <mxPoint x="235" y="764.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-38" value="1. 로그인" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="86" y="645" width="84" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-39" value="연체자 목록" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="523" y="399" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-40" value="" style="triangle;aspect=fixed;fillColor=strokeColor;rotation=-40;" vertex="1" parent="1">
+          <mxGeometry x="429" y="496.5" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-41" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UKU5RorOPV4T0jWpBKqR-35" target="UKU5RorOPV4T0jWpBKqR-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302" y="572.5" as="sourcePoint" />
+            <mxPoint x="499" y="596" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-42" value="4. 연체정보 확인" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=-50;" vertex="1" parent="1">
+          <mxGeometry x="306" y="553.5" width="136" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-43" value="도서 반납 시스템" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1011" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-44" value="" style="triangle;aspect=fixed;fillColor=strokeColor;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="199" y="904" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-45" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UKU5RorOPV4T0jWpBKqR-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="66" y="674.5" as="sourcePoint" />
+            <mxPoint x="523" y="773.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-46" value="7. 도서 반납" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=65;" vertex="1" parent="1">
+          <mxGeometry x="126" y="848.5" width="104" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-47" value="도서 대출 시스템" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="556" y="873.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-48" value="" style="triangle;aspect=fixed;fillColor=strokeColor;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="478" y="858" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-49" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="UKU5RorOPV4T0jWpBKqR-47" source="UKU5RorOPV4T0jWpBKqR-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="490.5" as="sourcePoint" />
+            <mxPoint x="809" y="591.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-50" value="6.도서 대출" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=35;" vertex="1" parent="1">
+          <mxGeometry x="361" y="803" width="100" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-53" value="출판사" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="539" y="525" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-54" value="" style="triangle;aspect=fixed;fillColor=strokeColor;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="491" y="550" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-55" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKU5RorOPV4T0jWpBKqR-35" target="UKU5RorOPV4T0jWpBKqR-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="388" y="697" as="sourcePoint" />
+            <mxPoint x="534" y="669" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-56" value="2. 신규 도서 주문" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="349" y="584.5" width="141" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-59" value="도서목록" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="549" y="725" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-60" value="" style="triangle;aspect=fixed;fillColor=strokeColor;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="529" y="725" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-61" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UKU5RorOPV4T0jWpBKqR-35" target="UKU5RorOPV4T0jWpBKqR-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="687" as="sourcePoint" />
+            <mxPoint x="531" y="890.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-62" value="4. 도서목록 업데이트" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="367" y="692.5" width="168" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-67" value="3. 도서 배송" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="386" y="604" width="104" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-69" value="" style="triangle;aspect=fixed;fillColor=strokeColor;rotation=150;" vertex="1" parent="1">
+          <mxGeometry x="389" y="642.5" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-72" value="5. 대출 가능여부 반환" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=-50;" vertex="1" parent="1">
+          <mxGeometry x="371" y="494" width="173" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="UKU5RorOPV4T0jWpBKqR-73" value="" style="triangle;aspect=fixed;fillColor=strokeColor;rotation=135;" vertex="1" parent="1">
+          <mxGeometry x="395" y="569" width="6" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
